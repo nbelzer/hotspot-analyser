@@ -1,7 +1,7 @@
 # Hotspot Analyser
 
 This repo contains a simple tool used to analyse 'Hotspots' in a git repo for 
-a given time period. It was developed for [one of the essays](https://desosa2020.netlify.com/projects/sentry/2020/03/23/essay-3.html) 
+a given time period. It was developed for [one of the essays](https://desosa2020.netlify.com/projects/sentry/2020/03/23/monitoring-sentrys-software-quality.html)
 we had to write for the IN4315 course at Delft University of Technology. In 
 this essay we analysed the areas of [Sentry](https://github.com/getsentry/sentry) 
 that were currently under development by looking at the folders that were 
